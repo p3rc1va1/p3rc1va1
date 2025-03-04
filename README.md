@@ -1,4 +1,7 @@
-### 📈 My GitHub Stats
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
 <div align="center">
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif">
 
