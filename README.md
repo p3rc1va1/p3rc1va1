@@ -1,9 +1,9 @@
-```html
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-```
-- 👋 Hi, I’m @p3rc1va1 or you can call me Baha
-- 👀 I’m interested in just about everything!
-- 🌱 I’m coding in many languages including Python, JavaScript, and SQL!
-- 📫 35celik.baha@gmail.com
+### 📈 My GitHub Stats
+<div align="center">
+
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=p3rc1va1&hide_border=true&theme=highcontrast)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=p3rc1va1&show_icons=true&theme=highcontrast)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=p3rc1va1&layout=compact&theme=highcontrast)
+
