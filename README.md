@@ -18,6 +18,7 @@ fields_of_interests:
     "Machine Learning",
     "Web Development",
     "UI/UX",
+  ]
 ```
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned Along The Way</h2>
