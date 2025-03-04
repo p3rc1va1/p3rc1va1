@@ -42,15 +42,12 @@ fields_of_interests:
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-</p>
+</div>
 
 <div align="center">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=p3rc1va1&show_icons=true&theme=highcontrast)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=p3rc1va1&layout=compact&theme=highcontrast)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=p3rc1va1&show_icons=true&theme=highcontrast) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=p3rc1va1&layout=compact&theme=highcontrast)
 
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+</div>
