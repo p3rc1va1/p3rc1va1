@@ -17,7 +17,7 @@ fields_of_interests:
     "Data Analysis"
     "Machine Learning",
     "Web Development",
-    "UI/UX",
+    "UI/UX"
   ]
 ```
 
