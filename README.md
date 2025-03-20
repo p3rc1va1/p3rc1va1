@@ -12,9 +12,10 @@ education: "Applied Artificial Intelligence"
 company: Accenture 
 
 fields_of_interests:
-  ["
+  [
+    "AI",
     "Data Science",
-    "Data Analysis"
+    "Data Analysis",
     "Machine Learning",
     "Web Development",
     "UI/UX"
