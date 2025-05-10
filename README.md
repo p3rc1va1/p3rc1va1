@@ -7,7 +7,7 @@
 ```yaml
 name: Baha Celik
 located_in: Vilnius, Lithuania
-current_job: AI / ML Intern
+current_job: Data Science & AI Intern
 education: "Applied Artificial Intelligence"
 company: Accenture 
 
